@@ -53,3 +53,9 @@ and transactions.market_code="Mark001";`
 1. Formula to create norm_amount column in Power Query Editor
 
    `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
+
+#### # Data Analysis Using Tableau
+
+1. Formula to create norm_amount column in Tableau Dekstop
+
+    `IF [Currency] == 'USD' THEN [Sales Amount] *77.49 ELSE [Sales Amount] END`
