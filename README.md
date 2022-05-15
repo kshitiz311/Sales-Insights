@@ -1,7 +1,7 @@
 # Sales-Insights
 Unlocked sales insights that are not visible before to the sales team for decision support & automate them to reduce manual time spent in data gathering for a computer hardware manufacturer called AtliQ hardware, which is facing challenges in dynamically changing market.
 
-Performed data cleaning and data wrangling using MySQL & Power BI on sales datasets to uncover sales order and revenue data throughout different markets and years. In Power BI performed ETL and data cleaning operations to make it ready so that we can build our dashboard.
+Performed data cleaning and data wrangling using MySQL, Power BI and Tableau on sales datasets to uncover sales order and revenue data throughout different markets and years. In the BI tools performed ETL and data cleaning operations to make it ready so that we can build our dashboard.
 
 Made an automated dashboard providing quick & latest sales insights to support data-driven decision making.
 
